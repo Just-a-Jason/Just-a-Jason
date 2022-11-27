@@ -2,7 +2,7 @@
 
 # I know:
  - C# 
- - JS 
+ - Java Script
  - HTML 
  - CSS 
  - Python
