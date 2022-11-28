@@ -1,18 +1,18 @@
-# Hello! I am Jason. Just a normal guy. 👀
+# 【Ｈｉ．　Ｉ＇ｍ　Ｊａｓｏｎ．ｊｓｏｎ】
 
-# I know:
+# 【Ｉ　ｋｎｏｗ：】
  - C# 
  - Java Script
  - HTML 
  - CSS 
  - Python
 
-# Social media:
+# 【Ｓｏｃｉａｌ　ｍｅｄｉａ：】
 - [My YoutubeChannel](https://www.youtube.com/channel/UCZHtyPpAKaesRH9CLfKwVEw)
 
 - [Instagram](https://www.instagram.com/antoni.wojcieszyk/)
 
-# You can also save me in .json file! 😲
+# 【Ｙｏｕ　ｃａｎ　ａｌｓｏ　ｓａｖｅ　ｍｅ　ｉｎ　．ｊｓｏｎ　ｆｉｌｅ！】 😲
   ```json I am Jason.json
   { 
     "Jason.json": {
