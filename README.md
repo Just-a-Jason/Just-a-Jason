@@ -6,8 +6,7 @@
  - HTML 
  - CSS 
  - Python
- 
- ````
+
   ```
   {
     "Jason.json": {
@@ -29,7 +28,7 @@
     }
 }
  ```
- ````
+
 
 # [My YoutubeChannel](https://www.youtube.com/channel/UCZHtyPpAKaesRH9CLfKwVEw)
 
