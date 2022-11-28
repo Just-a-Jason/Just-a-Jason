@@ -7,12 +7,8 @@
  - CSS 
  - Python
 
- ```javascript I'm tab B
-console.log('Code Tab B');
-```
-  ```
-  {
-    "Jason.json": {
+
+  ```{ "Jason.json": {
         "name": "Jason",
         "age": 16,
         
