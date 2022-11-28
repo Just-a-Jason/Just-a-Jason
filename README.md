@@ -1,4 +1,4 @@
-# Hello! I am Jason. Just a normal guy. 👀
+# Hello! I am Jason. Just a normal guy. 👀 You can also save me in .json.
 
 # I know:
  - C# 
