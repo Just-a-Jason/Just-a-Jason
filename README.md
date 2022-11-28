@@ -8,6 +8,7 @@
  - Python
 
   ```
+ function main() {}
   {
     "Jason.json": {
         "name": "Jason",
