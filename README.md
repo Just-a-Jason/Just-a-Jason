@@ -7,6 +7,10 @@
  - CSS 
  - Python
 
+# Social media:
+- [My YoutubeChannel](https://www.youtube.com/channel/UCZHtyPpAKaesRH9CLfKwVEw)
+
+- [Instagram](https://www.instagram.com/antoni.wojcieszyk/)
 
 # You can also save me in .json file! 😲
   ```json I am Jason.json
@@ -31,7 +35,4 @@
 }
  ```
 
-# Social media:
-- [My YoutubeChannel](https://www.youtube.com/channel/UCZHtyPpAKaesRH9CLfKwVEw)
 
-- [Instagram](https://www.instagram.com/antoni.wojcieszyk/)
