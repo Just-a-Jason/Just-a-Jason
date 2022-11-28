@@ -1,4 +1,4 @@
-# Hello! I am Jason. Just a normal guy. 👀 You can also save me in .json.
+# Hello! I am Jason. Just a normal guy. 👀
 
 # I know:
  - C# 
@@ -31,7 +31,7 @@
 }
  ```
 
+# Social media:
+- [My YoutubeChannel](https://www.youtube.com/channel/UCZHtyPpAKaesRH9CLfKwVEw)
 
-# [My YoutubeChannel](https://www.youtube.com/channel/UCZHtyPpAKaesRH9CLfKwVEw)
-
-# [Instagram](https://www.instagram.com/antoni.wojcieszyk/)
+- [Instagram](https://www.instagram.com/antoni.wojcieszyk/)
