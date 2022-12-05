@@ -1,11 +1,12 @@
 # 【Ｈｉ．　Ｉ＇ｍ　Ｊａｓｏｎ．ｊｓｏｎ】
 
 # 【Ｉ　ｋｎｏｗ：】
- - C# 
  - Java Script
+ - Python
  - HTML 
  - CSS 
- - Python
+ - C#
+ 
 
 # 【Ｓｏｃｉａｌ　ｍｅｄｉａ：】
 - [My YoutubeChannel](https://www.youtube.com/channel/UCZHtyPpAKaesRH9CLfKwVEw)
