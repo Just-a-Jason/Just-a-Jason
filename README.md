@@ -21,7 +21,7 @@
         "age": 16,
         
         "social media": [
-            "https://www.instagram.com/accounts/login/?next=%2Fantoni.wojcieszyk%2F&source=omni_redirect",
+            "https://www.instagram.com/antoni.wojcieszyk/",
             "https://www.youtube.com/channel/UCZHtyPpAKaesRH9CLfKwVEw?cbrd=1"
         ],
 
