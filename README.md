@@ -11,7 +11,7 @@
 # 【Ｓｏｃｉａｌ　ｍｅｄｉａ：】
 - [My Youtube Channel](https://www.youtube.com/channel/UCZHtyPpAKaesRH9CLfKwVEw)
 
-- [Instagram](https://www.instagram.com/antoni.wojcieszyk/)
+- [Instagram](https://www.instagram.com/aka.saul.goodman/)
 
 # 【Ｙｏｕ　ｃａｎ　ａｌｓｏ　ｓａｖｅ　ｍｅ　ｉｎ　．ｊｓｏｎ　ｆｉｌｅ！】 😲
   ```json I am Jason.json
@@ -21,7 +21,7 @@
         "age": 16,
         
         "social media": [
-            "https://www.instagram.com/antoni.wojcieszyk/",
+            "https://www.instagram.com/aka.saul.goodman/",
             "https://www.youtube.com/channel/UCZHtyPpAKaesRH9CLfKwVEw?cbrd=1"
         ],
 
