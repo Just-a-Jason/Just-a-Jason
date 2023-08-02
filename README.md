@@ -7,7 +7,7 @@
  - PHP
  - CSS 
  - C#
- - And a little bit C and C++
+ - And a little bit of C and C++
 
  
 
