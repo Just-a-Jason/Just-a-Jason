@@ -1,6 +1,6 @@
-# 【Ｈｉ．　Ｉ＇ｍ　Ｊａｓｏｎ．ｊｓｏｎ】
+# Hi I am Jason.json! :)
 
-# 【Ｉ　ｋｎｏｗ：】
+# I know:
  - Java Script
  - Python
  - HTML 
@@ -9,34 +9,6 @@
  - C#
  - And a little bit of C and C++
 
- 
+Also I am trying to learn React and Blazor.
 
-# 【Ｓｏｃｉａｌ　ｍｅｄｉａ：】
-- [My Youtube Channel](https://www.youtube.com/channel/UCZHtyPpAKaesRH9CLfKwVEw)
-
-- [Instagram](https://www.instagram.com/jason.json34/)
-
-# 【Ｙｏｕ　ｃａｎ　ａｌｓｏ　ｓａｖｅ　ｍｅ　ｉｎ　．ｊｓｏｎ　ｆｉｌｅ！】 😲
-  ```json I am Jason.json
-  { 
-    "Jason.json": {
-        "name": "Jason",
-        "age": 16,
-        
-        "social media": [
-            "https://www.instagram.com/aka.saul.goodman/",
-            "https://www.youtube.com/channel/UCZHtyPpAKaesRH9CLfKwVEw?cbrd=1"
-        ],
-
-        "programming languages": [
-            "Java Script",
-            "Python",
-            "HTML",
-            "CSS",
-            "C#"
-        ]
-    }
-}
- ```
-
-
+(react)["https://miro.medium.com/v2/resize:fit:952/1*JhfgzVXA0lvAIGIfRICRfA.gif"]
