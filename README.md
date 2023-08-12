@@ -11,4 +11,4 @@
 
 Also I am trying to learn React and Blazor.
 
-(react)["https://miro.medium.com/v2/resize:fit:952/1*JhfgzVXA0lvAIGIfRICRfA.gif"]
+[React Logo](https://miro.medium.com/v2/resize:fit:952/1*JhfgzVXA0lvAIGIfRICRfA.gif)
