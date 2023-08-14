@@ -22,4 +22,60 @@
 
 > GOD BLESS YOU MICROSOFT! 🤗
 
+### "Hello World!" in all languages i know.
+
+#### Python
+```python
+def main():
+ print('Hello world!')
+
+if __name__ == '__main__':
+ main()
+```
+
+#### C++
+```cpp
+#include<iostream>
+
+int main() {
+ std::cout<< "Hello World!";
+ return 0;
+}
+```
+### C
+```c
+#include <stdio.h>
+
+int main() {
+    printf("Hello World");
+
+    return 0;
+}
+
+```
+
+#### TypeScript & JavaScript
+```javascript
+ console.log('Hello world!');
+```
+
+#### C#
+```cs
+using System;
+
+static void Main(string[] args) {
+ Console.WriteLine("Hello World!");
+}
+```
+
+#### PHP
+```php
+<?php
+ function Main() {
+  echo "<h1>Hello World!</h1>";
+ }
+ Main();
+?>
+```
+
 
