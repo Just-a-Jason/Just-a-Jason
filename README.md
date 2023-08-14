@@ -11,7 +11,15 @@
 
 `𝐀𝐥𝐬𝐨 𝐈 𝐚𝐦 𝐭𝐫𝐲𝐢𝐧𝐠 𝐭𝐨 𝐦𝐚𝐬𝐭𝐞𝐫 𝐁𝐥𝐚𝐳𝐨𝐫 𝐚𝐧𝐝 𝐑𝐞𝐚𝐜𝐭.`
 
-> (っ◔◡◔)っ ♥ Also I love TypeScript 💞 ♥ 
+![Iknow](https://github.com/Just-a-Jason/FnafHtmlMazeGamePHP/assets/88512392/8f163333-701e-462d-9c58-5db5aa4dfb8b)
 
-![React Logo](https://miro.medium.com/v2/resize:fit:952/1*JhfgzVXA0lvAIGIfRICRfA.gif)
+- [x] Master Blazor Skills.
+- [x] Learn TypeScript
+- [ ] Learn Ract
+
+
+> (っ◔◡◔)っ ♥ Also I love using TypeScript insted of JavaScript 💞 ♥ 
+
+> GOD BLESS YOU MICROSOFT! 🤗
+
 
