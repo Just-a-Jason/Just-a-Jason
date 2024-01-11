@@ -15,7 +15,7 @@
 
 - [x] Master Blazor Skills.
 - [x] Learn TypeScript
-- [ ] Learn Ract
+- [x] Learn Ract
 
 
 > (っ◔◡◔)っ ♥ Also I love using TypeScript insted of JavaScript 💞 ♥ 
