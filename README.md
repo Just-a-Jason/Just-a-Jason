@@ -29,3 +29,36 @@ I love "The Sopranos" and my family.
  <img src="https://github.com/user-attachments/assets/9df7b607-5ddc-41fe-bc01-d2875cd97c57" alt="dancing terry davis"/>
 </div>
 
+```rs
+use holylibrary::{HolySprite, HolyDraw};
+
+#[derive(HolySprite)]
+struct TerryDavis<'a> {
+    sprite_source: &'a str,
+}
+
+fn main() {
+    let terry = TerryDavis {
+        sprite_source: "dacing-terry.gif",
+    };
+    
+    // (x, y, z-index)
+    let positions = vec![
+        (50, 50, 3),
+        (150, 50, 3),
+        (250, 50, 3),
+        (350, 50, 3),
+        (450, 50, 3),
+    ];
+    
+    loop {
+      holylibrary::refresh_screen();
+
+      for (x, y, z) in positions {
+        terry.draw_at(x, y, z);
+      }
+ 
+     holylibrary::sleep_ms(16);
+    }
+}
+```
