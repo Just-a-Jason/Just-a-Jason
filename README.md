@@ -2,7 +2,7 @@ Hi my name is Jason.json.
 
 I mostly work with my private repositries and I am a huge fan of low level programming languages and also a huge fan of Rust. When I was younger I always wanted to code things wich help and bring happiness to people around me. 
 
-I am a secound owner of [https://lisia-nora.pl](lisia-nora.pl). 
+I am a second owner of [https://lisia-nora.pl](lisia-nora.pl). 
 
 I love "The Sopranos", my family and my beautiful girlfriend.
 
