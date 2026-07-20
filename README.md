@@ -2,8 +2,8 @@ Hi my name is `Antoni Wojcieszyk` also known online as `Jason.json`.
 
 I mostly work with my private repositories and I am a huge fan of low level programming languages such as [C](https://en.wikipedia.org/wiki/C_(programming_language)) and [Rust](https://rust-lang.org/).
 
-I've made and maintain [lisia-nora.net](https://lisia-nora.net). I like to work with [GO](https://go.dev/) and [Rust](https://rust-lang.org/) and I really think that both of them has sommething unique about them.
-My first language which I used like 8-10 years ago was [C#](https://en.wikipedia.org/wiki/C_Sharp_(programming_language)), but I am not a huge fan of it. I love strict compiled languages. I've read a lot of books and my I want to improve my skills in [C](https://en.wikipedia.org/wiki/C_(programming_language)) and [C++](https://en.wikipedia.org/wiki/C%2B%2B).
+I've made and maintain [lisia-nora.net](https://lisia-nora.net). I like to work with [GO](https://go.dev/) and [Rust](https://rust-lang.org/) and I really think that both of them has something unique about them.
+My first language which I used like 8-10 years ago was [C#](https://en.wikipedia.org/wiki/C_Sharp_(programming_language)), but I am not a huge fan of it. I love strict compiled languages. I've read a lot of books about programming and I want to improve my skills in [C](https://en.wikipedia.org/wiki/C_(programming_language)) and [C++](https://en.wikipedia.org/wiki/C%2B%2B).
 
 ## The tech stack I like to work with:
 
