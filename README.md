@@ -1,4 +1,4 @@
-Hi my name is `Antoni Wojcieszyk` also known online as `Jason.json`.
+Hi I am, `Jason.json`.
 
 I mostly work with my private repositories and I am a huge fan of low level programming languages such as [C](https://en.wikipedia.org/wiki/C_(programming_language)) and [Rust](https://rust-lang.org/).
 
