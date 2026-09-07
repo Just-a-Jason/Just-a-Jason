@@ -1,4 +1,4 @@
-Hi I am, `Jason.json`.
+Hi my name is, `Jason.json`.
 
 I mostly work with my private repositories and I am a huge fan of low level programming languages such as [C](https://en.wikipedia.org/wiki/C_(programming_language)) and [Rust](https://rust-lang.org/).
 
